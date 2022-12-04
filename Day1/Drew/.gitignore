@@ -1,8 +1,10 @@
 # Default ignored files
 /shelf/
 
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
+/out/

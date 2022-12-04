@@ -57,7 +57,7 @@ public class Day3 {
             rucksack_groups.addAll(Collections.singleton(sub));
             x+=2;
         }
-        
+
         //check for shared badges
         List<Character> badges = rucksack_groups.stream().map(group -> {
             Character badge = null;
